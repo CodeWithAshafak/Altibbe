@@ -25,7 +25,7 @@ const Header = () => {
         Admin Dashboard
       </h3>
 
-      <div className="flex items-center gap-4 pr-10">
+      <div className="flex items-center gap-4 pl-10">
         <div className="flex flex-col text-right sm-block">
           <h6 className="text-white font-semibold text-sm">
             {userLoggedIn
