@@ -2,7 +2,7 @@ import { Outlet } from 'react-router-dom';
 import Header from './components/header';
 import Sidebar from './components/sidebar';
 
-const Dashlayout = () => {
+const dashlayout = () => {
   return (
     <>
       <Header />
@@ -18,4 +18,4 @@ const Dashlayout = () => {
   );
 };
 
-export default Dashlayout;
+export default dashlayout;
